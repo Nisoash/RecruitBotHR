@@ -1,0 +1,5 @@
+# requirements.txt
+# Add your project dependencies here
+
+# Example: LLMs, plugins, or Microsoft tools
+openai

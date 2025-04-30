@@ -26,7 +26,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         # Uncomment below when you add a requirements.txt
-        # pip install -r requirements.txt
+        pip install -r requirements.txt
 
     - name: ▶️ Run main.py
       run: python main.py
